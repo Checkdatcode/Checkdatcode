@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Checkdatcode
+- 👋 Hi, I’m @Dannycodes
 - 👀 I’m interested in ... frontend dev
 - 🌱 I’m currently learning ... Html and css
 - 💞️ I’m looking to collaborate on ...
